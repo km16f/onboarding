@@ -36,3 +36,5 @@ elif r.status_code == 404:
     print("Error: Authentication Needed")
 
 print(r.content)
+
+print("Testing push")
